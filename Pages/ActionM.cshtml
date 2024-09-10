@@ -1,0 +1,29 @@
+﻿@page
+@model ActionMModel
+
+<div class="text-center">
+    <h1 class="display-4">Action Movies</h1>
+    <div class="row">
+        @if (Model.ActionM != null)
+        {
+            @foreach (var movie in Model.ActionM)
+            {
+                @if (movie != null)
+                {
+                    <div class="col-md-4">
+                        <div class="card mb-4 shadow-sm">
+                            <a href="@(movie?.ImageUrl)" data-lightbox="movie-images">
+                                <img src="@(movie?.ImageUrl)" alt="@(movie?.Name)" width="100%" height="350">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title">@(movie?.Name)</h5>
+                                <p class="card-text">Rating: @(movie?.Rating)/5</p>
+                                <button><a href="@(movie?.VideoUrl)">Watch Trailer</a></button>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </div>
+</div>
