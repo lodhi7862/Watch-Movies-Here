@@ -1,291 +1,291 @@
 {
   "Files": [
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteEcom.bundle.scp.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteEcom.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebsiteEcom.bundle.scp.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\css\\site.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\favicon.ico",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\Action.png",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\Action.png",
       "PackagePath": "staticwebassets\\images\\Action.png"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\Adventure.png",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\Adventure.png",
       "PackagePath": "staticwebassets\\images\\Adventure.png"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\BlackPanther.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\BlackPanther.jpg",
       "PackagePath": "staticwebassets\\images\\BlackPanther.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\Comedy.png",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\Comedy.png",
       "PackagePath": "staticwebassets\\images\\Comedy.png"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\DaddyDayCare.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\DaddyDayCare.jpg",
       "PackagePath": "staticwebassets\\images\\DaddyDayCare.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\FilmSourcing.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\FilmSourcing.jpg",
       "PackagePath": "staticwebassets\\images\\FilmSourcing.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\Kingsman.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\Kingsman.jpg",
       "PackagePath": "staticwebassets\\images\\Kingsman.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\LittleMan.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\LittleMan.jpg",
       "PackagePath": "staticwebassets\\images\\LittleMan.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\ThorRagnarok.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\ThorRagnarok.jpg",
       "PackagePath": "staticwebassets\\images\\ThorRagnarok.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\images\\WorldWarZ.jpg",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\images\\WorldWarZ.jpg",
       "PackagePath": "staticwebassets\\images\\WorldWarZ.jpg"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\js\\site.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Tasks2\\NewTask\\WebsiteEcom\\wwwroot\\videos\\Trailer.mp4",
+      "Id": "E:\\Tasks2\\NewTask\\Watch Movies\\wwwroot\\videos\\Trailer.mp4",
       "PackagePath": "staticwebassets\\videos\\Trailer.mp4"
     },
     {
